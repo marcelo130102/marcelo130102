@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcelo Surco
-- 👀 I’m interested in game development, and data bases
-- 🌱 I’m currently learning JavaScript and C++
+- 👀 I’m interested in game development, web development and data bases
+- 🌱 I’m currently learning JavaScript, ReactJs and NextJs
 - 💞️ I’m looking to collaborate on new games and projects that teach programming
 
 <!---
