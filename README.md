@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marcelo Surco
-- 👀 I’m interested in game development, web development and data bases
+- 👀 I’m interested in game development, web development and AI
 - 🌱 I’m currently learning JavaScript, ReactJs and NextJs
 - 💞️ I’m looking to collaborate on new games and projects that teach programming
 
